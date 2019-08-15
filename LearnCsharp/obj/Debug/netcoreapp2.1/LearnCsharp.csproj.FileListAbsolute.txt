@@ -1,0 +1,11 @@
+E:\IDE\Workspace\VSCode\Csharp\LearnCsharp\bin\Debug\netcoreapp2.1\LearnCsharp.deps.json
+E:\IDE\Workspace\VSCode\Csharp\LearnCsharp\bin\Debug\netcoreapp2.1\LearnCsharp.runtimeconfig.json
+E:\IDE\Workspace\VSCode\Csharp\LearnCsharp\bin\Debug\netcoreapp2.1\LearnCsharp.runtimeconfig.dev.json
+E:\IDE\Workspace\VSCode\Csharp\LearnCsharp\bin\Debug\netcoreapp2.1\LearnCsharp.dll
+E:\IDE\Workspace\VSCode\Csharp\LearnCsharp\bin\Debug\netcoreapp2.1\LearnCsharp.pdb
+E:\IDE\Workspace\VSCode\Csharp\LearnCsharp\obj\Debug\netcoreapp2.1\LearnCsharp.csprojAssemblyReference.cache
+E:\IDE\Workspace\VSCode\Csharp\LearnCsharp\obj\Debug\netcoreapp2.1\LearnCsharp.csproj.CoreCompileInputs.cache
+E:\IDE\Workspace\VSCode\Csharp\LearnCsharp\obj\Debug\netcoreapp2.1\LearnCsharp.AssemblyInfoInputs.cache
+E:\IDE\Workspace\VSCode\Csharp\LearnCsharp\obj\Debug\netcoreapp2.1\LearnCsharp.AssemblyInfo.cs
+E:\IDE\Workspace\VSCode\Csharp\LearnCsharp\obj\Debug\netcoreapp2.1\LearnCsharp.dll
+E:\IDE\Workspace\VSCode\Csharp\LearnCsharp\obj\Debug\netcoreapp2.1\LearnCsharp.pdb
