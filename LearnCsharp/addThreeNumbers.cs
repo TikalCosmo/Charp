@@ -2,7 +2,7 @@ using System;
 
 namespace LearnCsharp
 {
-    public class addThreeNumbers
+    public class AddThreeNumbers
     {
         public static void add3()
         {

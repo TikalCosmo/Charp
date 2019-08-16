@@ -10,3 +10,12 @@
  + Read second number from user
  + Add numbers
  + Display sum
+
+ #
+ # Exercise 2
+ ### Calculate and Display Area of a Circle
+ + Declare variable for the radius
+ + Declare variable for the area
+ + Prompt user for a radius
+ + Calculate area of the circle
+ + Display area of the circle

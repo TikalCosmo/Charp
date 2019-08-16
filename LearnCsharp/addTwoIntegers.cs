@@ -1,7 +1,7 @@
 ﻿using System;
 
 namespace LearnCsharp{
-    public class addTwoIntegers{
+    public class AddTwoIntegers{
         public static void add2()
         {
             // Displaying the sum of two numbers input from the keyboard.
