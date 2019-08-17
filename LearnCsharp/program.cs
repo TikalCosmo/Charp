@@ -6,7 +6,8 @@ namespace LearnCsharp{
         {
             // AddTwoIntegers.add2();
             // AddThreeNumbers.add3();
-            CalculateAreaCircle.AreaCircle();
+            // CalculateAreaCircle.AreaCircle();
+            SalesTax.DisplayTax();
         }
     }
 }
