@@ -7,7 +7,9 @@ namespace LearnCsharp{
             // AddTwoIntegers.add2();
             // AddThreeNumbers.add3();
             // CalculateAreaCircle.AreaCircle();
-            SalesTax.DisplayTax();
+            // SalesTax.DisplayTax();
+            // CompundInterest.ComputeLoan();
+            CelsiusToFahrenheit.CeToFa();
         }
     }
 }

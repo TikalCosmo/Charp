@@ -29,4 +29,15 @@
  + Prompt user for tax percent
  + Calculate sales tax amount
  + Display the sales tax with two digits after decimal point.
-  
+
+# Exercise 4
+### Calculate Compound Interest
++ Prompt user for the interest rate, the loan amount and the number of years.
++ Compute monthly payment
++ Compute total payment amounts.
++ Display monthly payment and total payment.
+
+# Exercise 5
+### Convert Celsius to Fahrenheit
++ Write a program that reads a Celsius degree in a double value from the console, then converts it to Fahrenheit and display the result.
++ Formula for the conversion is: fahrenheit = (9 / 5) * celsius + 32
