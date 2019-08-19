@@ -54,4 +54,17 @@
 7. The remaining cents are the pennies.
 8. Display the result.
 
+# Exercise 7
+### Compute the volume of a cylinder
+
++ Write a program that reads in the radius and length of a cylinder and computes the area and volume using the following formulas.
+
++	area = radius * radius * PI
++	volume = area * length
+
+# Exercise 8
+### Convert feet into meters
+
++ Write a program that read a number in feet, converts it to meters, and displays the result. One foot is 0.305 meter.
+
 

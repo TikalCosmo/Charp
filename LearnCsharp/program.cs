@@ -10,7 +10,9 @@ namespace LearnCsharp{
             // SalesTax.DisplayTax();
             // CompundInterest.ComputeLoan();
             //CelsiusToFahrenheit.CeToFa();
-            ComputeChange.CalcChange();
+            //ComputeChange.CalcChange();
+            //ComputeVolumeCylinder.CylinderVolume();
+            ConvertFeetToMeters.FeetToMeters();
         }
     }
 }
