@@ -2,7 +2,7 @@ using System;
 
 namespace LearnCsharp{
     public class CompundInterest{
-        public static void ComputeLoan(){
+        public static void computeLoan(){
             double loanAmount;
             double annualInterestRate;
             double monthlyInterestRate;

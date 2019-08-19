@@ -41,3 +41,17 @@
 ### Convert Celsius to Fahrenheit
 + Write a program that reads a Celsius degree in a double value from the console, then converts it to Fahrenheit and display the result.
 + Formula for the conversion is: fahrenheit = (9 / 5) * celsius + 32
+
+# Exercise 6
+### ComputeChange
+
+1. Prompt the user to enter the amount as a decimal number, such as 11.56. 
+2. Convert the amount (e.g., 11.56) into cents (1156). 
+3. Divide the cents by 100 to find the number of dollars. Obtain the remaining cents using the cents remainder 100.
+4. Divide the remaining cents by 25 to find the number of quarters. Obtain the remaining cents using the remaining cents remainder 25.
+5. Divide the remaining cents by 10 to find the number of dimes. Obtain the remaining cents using the remaining cents remainder 10.
+6. Divide the remaining cents by 5 to find the number of nickels. Obtain the remaining cents using the remaining cents remainder 5.
+7. The remaining cents are the pennies.
+8. Display the result.
+
+

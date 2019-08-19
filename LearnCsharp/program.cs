@@ -9,7 +9,8 @@ namespace LearnCsharp{
             // CalculateAreaCircle.AreaCircle();
             // SalesTax.DisplayTax();
             // CompundInterest.ComputeLoan();
-            CelsiusToFahrenheit.CeToFa();
+            //CelsiusToFahrenheit.CeToFa();
+            ComputeChange.CalcChange();
         }
     }
 }
